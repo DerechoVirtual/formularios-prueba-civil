@@ -1,0 +1,1 @@
+Con la venia, para hacer constar nuestra respetuosa protesta por la inadmisión de la pregunta dirigida al testigo, interesando que conste en acta el contenido de la pregunta, que fue la siguiente: [TEXTO DE LA PREGUNTA INADMITIDA], así como nuestra disconformidad por la inadmisión de la misma.

@@ -1,0 +1,25 @@
+{
+  "name": "formularios-prueba-civil",
+  "version": "1.1.0",
+  "description": "Prueba en el proceso civil: 72 formularios revisados el 25-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para la prueba del pleito civil: proposición de prueba, documental y su impugnación, pericial (designación, aceptación y dictámenes), testifical e interrogatorio de parte, reconocimiento judicial, exhibición de documentos y diligencias finales. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Prueba en el proceso civil · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "civil",
+    "escritos-procesales"
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-prueba-civil"
+}

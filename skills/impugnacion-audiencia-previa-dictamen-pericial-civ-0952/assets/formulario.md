@@ -1,0 +1,5 @@
+Con la venia, para impugnar el dictamen aportado por la otra parte por ser totalmente incompleto, ya que el perito no se ha pronunciado en ningún momento sobre [EXTREMO OMITIDO; EJEMPLO: las secuelas que se han podido producir en mi representado/a como consecuencia del accidente], ni sobre [OTRO EXTREMO OMITIDO; EJEMPLO: la relación causal entre la limitación de la movilidad que presenta en la extremidad inferior izquierda y el accidente de autos].
+
+Por este motivo, desde este momento proponemos ya la ampliación a los siguientes extremos: a) que por el perito Sr./Sra. [NOMBRE Y APELLIDOS] se dictamine [PRIMER EXTREMO; EJEMPLO: si a consecuencia del accidente se produjeron secuelas en la persona del demandante, describiéndolas en su caso]; y b) que asimismo se dictamine [SEGUNDO EXTREMO; EJEMPLO: si se ha producido una agravación de la lesión que presentaba el demandante en la pierna izquierda, agravándose notoriamente la falta de movilidad en la extremidad inferior izquierda].
+
+Solicitamos que se tenga por solicitada la ampliación a estos extremos y se acuerde su práctica en su momento.

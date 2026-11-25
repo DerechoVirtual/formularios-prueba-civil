@@ -1,0 +1,3 @@
+Con la venia, al amparo del art. 369 de la LEC, para impugnar la pregunta formulada por la parte contraria al entender que se está pidiendo al testigo un mero juicio de valor u opinión sobre [MATERIA SOBRE LA QUE SE PIDE LA OPINIÓN; EJEMPLO: los motivos personales que llevaron a firmar el contrato al comprador que represento], sin que el testigo tenga conocimiento de [HECHO QUE EL TESTIGO NO CONOCE; EJEMPLO: la situación económica de mi defendido en aquel tiempo] ni tenga relación personal alguna con él para poder emitir dicha valoración sobre lo que se le pregunta.
+
+[OPCIONAL — si ha lugar] En caso de que se admita la pregunta, ruego que conste en acta nuestra protesta a los efectos del art. 446 de la LEC.
